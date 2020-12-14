@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Edaaltuntas&show_icons=true&theme=dracula">
 
 ## 😎 Eda's Github Profile
-I am Eda. I have good technical skills, I am good at social relations, quick learner and inclined to team work. I have been moderating to a crowded group in discord and Twitch(Lunizzers). ln addition to this, I am a member of QTurkey, I take charge in community management, mentoring in workshops and taking part in the organizations of hackathon . I am a Co-founder of teknikafa.com which was launched by three other friends. Besides I have been in a new organization called a Aramis which contains a number of projects.
+I am Eda. I have good technical skills, I am good at social relations, quick learner and inclined to team work. I'm interested in quantum technologies, cybersecurity and artificial intelligence.
 ## 🤙🏻 You can reach out
 
 Feel free to contact me about the problems. I will try to help as much as I can 😉
