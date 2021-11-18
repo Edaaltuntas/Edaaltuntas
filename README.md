@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Edaaltuntas&show_icons=true&theme=dracula">
 
 ## Hi 😎
-I am Eda. I'm interested in quantum technologies, cybersecurity and artificial intelligence.
+I am Eda. I'm interested in cybersecurity and quantum technologies.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eda-altuntas24)
